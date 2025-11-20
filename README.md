@@ -1,0 +1,1 @@
+# turkey_earthquakes-deep_learning_homework
